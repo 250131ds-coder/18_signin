@@ -181,8 +181,6 @@ class User extends Model
     }
 
 
-//github練習中
-
     /**
      * プロフィール画像の保存先パスを取得する
      *
